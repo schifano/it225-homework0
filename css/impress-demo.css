@@ -45,6 +45,9 @@ q:before, q:after {
     text-align: center;
 }
 
+.small {
+    font-size: 20px;
+}
 table {
     border-collapse: collapse;
     border-spacing: 0;
